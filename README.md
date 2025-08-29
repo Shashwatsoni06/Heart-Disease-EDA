@@ -54,7 +54,7 @@ text
 
 ### Installation
 1. Clone the repository
-git clone https://github.com/shashwatsoni/heart-disease-risk-analysis.git
+git clone https://github.com/shashwatsoni06/heart-disease-risk-analysis.git
 cd heart-disease-risk-analysis
 
 text
